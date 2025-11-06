@@ -19,8 +19,6 @@
 
 ## 🎯 **THE ROAD TO GRANDMASTER**
 
-<div align="center">
-
 ### **Our Kaggle Journey Map**
 
 ```
@@ -48,10 +46,8 @@
 - 👑 Solo & Team Competition Mastery
 - 💪 Years of Dedication & Learning
 
-**Current Mission: Achieve Expert Status**  
-**Ultimate Vision: Grandmaster By 2027**
-
-</div>
+**Current Mission:** Achieve Expert Status  
+**Ultimate Vision:** Grandmaster By 2027
 
 ---
 
@@ -312,8 +308,6 @@ Status: CHAMPIONSHIP TIER
 
 ## 📈 BY THE NUMBERS
 
-<div align="center">
-
 | Metric | Competition #1 | Competition #2 | Improvement |
 |--------|---------------|---------------|-------------|
 | 🏅 **Rank** | 1246/2581 | 960/4082 | ↗️ Better position |
@@ -329,8 +323,6 @@ Status: CHAMPIONSHIP TIER
 - ✅ **Created 10 domain-specific engineered features**
 - ✅ **Implemented advanced stacking architecture**
 - ✅ **Maintained consistent 29 submissions strategy**
-
-</div>
 
 ---
 
