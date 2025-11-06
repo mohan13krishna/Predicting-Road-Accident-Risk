@@ -17,6 +17,44 @@
 
 ---
 
+## 🎯 **THE ROAD TO GRANDMASTER**
+
+<div align="center">
+
+### **Our Kaggle Journey Map**
+
+```
+📊 CURRENT STATUS: BUILDING FOUNDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎖️  Novice        ✅ COMPLETED
+🥉  Contributor   ✅ COMPLETED  
+🥈  Expert        🎯 IN PROGRESS
+🥇  Master        🔒 LOCKED (Coming Soon)
+👑  Grandmaster   🔒 LOCKED (Ultimate Goal)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+### **Path to Expert Tier:**
+- ✅ Competition #1: Top 48% - Foundation Laid
+- ✅ Competition #2: Top 23% - Skills Sharpened
+- 🎯 Competition #3: Top 10% - Expert Tier Target
+- 🏆 Competition #4-5: Podium Finish - Expert Unlocked
+
+### **Path to Grandmaster:**
+- 🥇 Multiple Gold Medals Required
+- 🥈 Consistent Top 10% Finishes
+- 👑 Solo & Team Competition Mastery
+- 💪 Years of Dedication & Learning
+
+**Current Mission: Achieve Expert Status**  
+**Ultimate Vision: Grandmaster By 2027**
+
+</div>
+
+---
+
 ## 🔥 TEAM PHOENIX ALGORITHMS - THE EVOLUTION CONTINUES
 
 Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED. This time? **Top 23.5%!** We've improved our ranking by **24.8 percentage points** and we're just getting started!
@@ -75,7 +113,7 @@ Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED.
 **Challenge:** Kaggle Playground Series - Season 5, Episode 10  
 **Duration:** October 1-31, 2025 (31 days of intense optimization)  
 **Metric:** RMSE (Root Mean Squared Error) - *Precision is everything*  
-**Special Recognition:** Code Scientist Badge (with Stack Overflow Challenge completion)  
+**Ultimate Goal:** Expert → Grandmaster Status on Kaggle  
 
 ---
 
@@ -302,7 +340,7 @@ Status: CHAMPIONSHIP TIER
 **Start:** October 1, 2025  
 **End:** October 31, 2025  
 **Evaluation:** Root Mean Squared Error (RMSE)  
-**Special Badge:** Code Scientist (with Stack Overflow Challenge)  
+**Team Mission:** Building expertise toward Kaggle Grandmaster status  
 **Dataset:** Generated from deep learning model trained on Simulated Roads Accident dataset  
 
 ---
@@ -355,10 +393,10 @@ Status: CHAMPIONSHIP TIER
 
 ---
 
-*The phoenix rises higher with each flight. Watch our ascent.* ⭐
+*The phoenix rises higher with each flight. Expert today. Grandmaster tomorrow.* ⭐
 
 **[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e10)** | **October 2025** | **#TeamPhoenixAlgorithms**
 
-### 🎖️ **Competing for the Code Scientist Badge** 🎖️
+### 🎖️ **On The Path to Grandmaster Status** 🎖️
 
 </div>
